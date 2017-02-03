@@ -1,4 +1,7 @@
 "# golanguageHello" 
+
+先安装 https://golang.org/doc/install?download=go1.7.5.windows-amd64.msi
+
  set GOPATH D:\goworkspace 设置gopath
  
  在%GOPATH%内建立文件夹 src/hello  在src/hello内建一个go文件 hello.go 内容为
